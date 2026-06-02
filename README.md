@@ -109,10 +109,13 @@ Created visualizations using:
 Netflix-Content-Analysis-EDA/
 
 ├── data/
+
 │ └── netflix_titles.csv
+
 │
 ├── notebooks/
 │ └── Netflix_EDA.ipynb
+
 │
 ├── images/
 │ └── visualizations
