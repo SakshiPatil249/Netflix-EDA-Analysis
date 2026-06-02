@@ -114,17 +114,20 @@ Netflix-Content-Analysis-EDA/
 
 │
 ├── notebooks/
+
 │ └── Netflix_EDA.ipynb
 
 │
 ├── images/
 │ └── visualizations
+
 │
 ├── README.md
+
 │
 ├── requirements.txt
-│
-└── .gitignore
+
+
 
 ---
 
